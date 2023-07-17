@@ -161,4 +161,4 @@ cython_debug/
 joined_dataset.csv
 .gitignore
 joined_dataset.zip
-.DS_Store
+client_secrets.json
